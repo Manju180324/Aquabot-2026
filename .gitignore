@@ -1,0 +1,22 @@
+# Python environments
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# YOLO model weights
+*.pt
+
+# Logs
+*.log

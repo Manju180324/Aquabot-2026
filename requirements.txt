@@ -1,0 +1,13 @@
+streamlit>=1.36
+streamlit-autorefresh
+numpy
+pandas
+Pillow
+pyarrow
+opencv-python
+ultralytics
+plotly
+fpdf
+langchain-groq
+langchain-core
+python-dotenv
